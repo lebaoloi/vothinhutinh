@@ -9,7 +9,7 @@
 // const giftImage = 'IMG_0127.PNG';
 // const base64 = '';
 // const giftImageBase64 = "data:image/png;base64, " + base64;
-const nameGirl = 'Honey của anh';
+const nameGirl = 'Em';
 const giftUrl = 'https://www.facebook.com/letranbaoloi/';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng người ấy';
